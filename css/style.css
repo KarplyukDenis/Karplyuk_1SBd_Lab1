@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+}
+
+header{
+    background-color: #9fec53;
+    height: 150px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    
+}
+h1,h2{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 18pt;
+    margin-bottom: 15px;
+    margin-top: -30px;
+}
+img{
+    width: 360px;
+    height: 350px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(1, 146, 1);
+    width: auto;
+    height: 400px;
+    color: white;
+}
+.divs1{
+    background-color: #CCB188;
+    height: 550px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photos{
+    
+    background-color: #ff8585;
+    width: 1170px;
+    height: 530px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.h1_marg{
+    margin-bottom: 30px;
+}
+.phototext{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    margin-bottom: 15px;
+    margin-top: -30px;
+}
+.photosframe{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
+.photo{
+    
+    background-color: gray;
+    width: 360px;
+    height: 350px;
+    margin: 10px;
+    
+}
+.photos_2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    width: auto;
+    height: 400px;
+    
+}
+.photo_2{
+
+    background-color: rgb(184, 177, 177);
+    width: 360px;
+    height: 350px;
+    margin: 10px;  
+}
+.widget{
+    background-color: #ff8585;
+    height: 468px;
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+}
+.widget2{
+    background-color: rgb(245, 177, 50);
+    width: 100%;
+    height: 360px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
